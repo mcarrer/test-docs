@@ -1,4 +1,4 @@
-# This is a second page.
+# This is a second page
 
 ## Can I become who I want to be?
 
