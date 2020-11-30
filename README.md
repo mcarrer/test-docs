@@ -8,6 +8,10 @@ This is a new paragraph.
 ![IoT Architecture](images/everywareiot.jpg)
 
 
+This is new TEST!!!!
+
+
+
 ```
 $ give me super-powers
 ```
