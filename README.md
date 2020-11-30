@@ -5,7 +5,7 @@
 Becoming a super hero is a fairly straight forward process:
 
 This is a new paragraph.
-
+![IoT Architecture](images/everywareiot.jpg)
 
 
 ```
